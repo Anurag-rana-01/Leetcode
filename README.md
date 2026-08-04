@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
