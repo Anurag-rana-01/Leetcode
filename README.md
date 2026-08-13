@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anurag-rana-01/Leetcode/tree/master/0704-binary-search) |
+| [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
