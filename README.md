@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Anurag-rana-01/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anurag-rana-01/Leetcode/tree/master/0704-binary-search) |
+| [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
+| [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
