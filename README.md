@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Anurag-rana-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anurag-rana-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-rana-01/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-rana-01/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anurag-rana-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-rana-01/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurag-rana-01/Leetcode/tree/master/0053-maximum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
