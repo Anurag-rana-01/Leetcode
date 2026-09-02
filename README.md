@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anurag-rana-01/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-rana-01/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-rana-01/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag-rana-01/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
