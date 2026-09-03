@@ -1,10 +1,21 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int n = nums.length;
-        int xor = 0;
-        for(int i=0;i<n;i++){
-            xor = xor^nums[i];
+        int st = 0;
+        int end = nums.length-1;
+
+        while(st<end){
+            int mid = st + ((end-st)/2);
+
+            if(mid%2 == 1){
+                mid--;
+            }
+
+            if(nums[mid] == nums[mid+1]){
+                st = mid + 2;
+            }else{
+                end = mid;
+            }
         }
-        return xor;
+        return nums[st];
     }
 }
