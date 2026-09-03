@@ -1,24 +1,15 @@
 class Solution {
     public boolean isMonotonic(int[] nums) {
-        int count = 0;
+        boolean inc = true;
+        boolean dec = true;
         for(int i=0;i<nums.length-1;i++){
-            if(nums[i] <= nums[i+1]){
-                count++;
+            if(nums[i] > nums[i+1]){
+                inc = false;
+            }
+            if(nums[i] < nums[i+1]){
+                dec = false;
             }
         }
-
-        int count1 = 0;
-
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i] >= nums[i+1]){
-                count1++;
-            }
-        }
-
-        if(count == nums.length-1 || count1 == nums.length-1){
-            return true;
-        }
-
-        return false;
+        return inc || dec;
     }
 }
