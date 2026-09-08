@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Anurag-rana-01/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Anurag-rana-01/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anurag-rana-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anurag-rana-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag-rana-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-rana-01/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anurag-rana-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Anurag-rana-01/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anurag-rana-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Anurag-rana-01/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag-rana-01/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Anurag-rana-01/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -186,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-rana-01/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
