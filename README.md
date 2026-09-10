@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Anurag-rana-01/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3978-unique-middle-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Anurag-rana-01/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag-rana-01/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3978-unique-middle-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
