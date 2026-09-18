@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Anurag-rana-01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anurag-rana-01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag-rana-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anurag-rana-01/Leetcode/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Anurag-rana-01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
