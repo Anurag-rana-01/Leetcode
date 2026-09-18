@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anurag-rana-01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anurag-rana-01/Leetcode/tree/master/0217-contains-duplicate) |
@@ -204,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Anurag-rana-01/Leetcode/tree/master/0621-task-scheduler) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-rana-01/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
