@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Anurag-rana-01/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Anurag-rana-01/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anurag-rana-01/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anurag-rana-01/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Anurag-rana-01/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Anurag-rana-01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [2418-sort-the-people](https://github.com/Anurag-rana-01/Leetcode/tree/master/2418-sort-the-people) |
 ## Sliding Window
@@ -212,9 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Anurag-rana-01/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anurag-rana-01/Leetcode/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anurag-rana-01/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
